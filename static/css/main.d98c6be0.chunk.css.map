@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,cACE,SAAY,CACZ,SACF","file":"main.d98c6be0.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n\r\n.not-selected {\r\n  opacity: 100;\r\n  color: red;\r\n}\r\n"]}
